@@ -14,7 +14,6 @@ This project predicts hourly averaged concentrations of air pollutants (CO, NMHC
 - [Feature Engineering Insights](#feature-engineering-insights)
 - [Conclusion](#conclusion)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 
 ## Introduction
 The aim of this project is to predict the future 48 hours of hourly averaged concentrations for major air pollutants and related environmental factors. Accurate short-term air quality predictions are crucial for public health and environmental planning.
